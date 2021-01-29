@@ -272,3 +272,7 @@ CACHE LAZY TABLE CaseStudyDB.Locations;
 -- COMMAND ----------
 
 select * from CaseStudyDB.Customers limit 10
+
+-- COMMAND ----------
+
+select * from CaseStudyDB.OrderHistory
